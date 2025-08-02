@@ -1,0 +1,5 @@
+2025-08-02 18:54:19 [info]: Navigating to login page
+2025-08-02 18:54:21 [info]: Filling email input with: armory@a
+2025-08-02 18:54:25 [info]: Checking if next button is enabled
+2025-08-02 18:54:25 [info]: Clicking the next button
+2025-08-02 18:54:25 [info]: Verifying still on login page

@@ -1,0 +1,5 @@
+2025-08-02 18:54:42 [info]: Navigating to login page
+2025-08-02 18:54:44 [info]: Filling email input with: User@Example.COM
+2025-08-02 18:54:47 [info]: Checking if next button is enabled
+2025-08-02 18:54:47 [info]: Clicking the next button
+2025-08-02 18:54:47 [info]: Verifying navigation to password page

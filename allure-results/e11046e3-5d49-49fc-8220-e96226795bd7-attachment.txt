@@ -1,0 +1,2 @@
+2025-08-02 18:53:47 [info]: Navigating to login page
+2025-08-02 18:53:49 [info]: Checking if email input and next button are visible
