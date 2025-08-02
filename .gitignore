@@ -1,6 +1,10 @@
-# Node.js dependencies
+# Node modules
 node_modules/
 
-# Allure results and reports
+# Test results and reports
+test-results/
 allure-results/
 allure-report/
+
+
+

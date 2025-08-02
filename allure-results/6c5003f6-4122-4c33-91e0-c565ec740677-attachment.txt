@@ -1,2 +1,0 @@
-2025-08-02 18:53:53 [info]: Navigating to login page
-2025-08-02 18:53:55 [info]: Checking if next button is disabled
